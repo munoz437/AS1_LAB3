@@ -7,18 +7,13 @@ import java.util.*;
  */
 public class NobleFir implements IChristmasTree {
 
-    /**
-     * Default constructor
-     */
+ 
     public NobleFir() {
     }
 
-    /**
-     * @return
-     */
+   
     public void place() {
-        // TODO implement here
-        return null;
+        System.out.println("Fabricando árbol de tipo Noble Fir");
     }
 
 }
